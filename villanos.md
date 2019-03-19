@@ -2,4 +2,3 @@
 
 * Dr. doom
 * Satan
-* Capitán America
